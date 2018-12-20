@@ -1,0 +1,7 @@
+﻿namespace FindPrimeNumbersWithMultiThread
+{
+}
+
+namespace FindPrimeNumbersWithMultiThread
+{
+}
